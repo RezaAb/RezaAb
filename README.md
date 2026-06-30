@@ -1,4 +1,12 @@
-## Hi there 👋
+# Reza Ab
+
+Backend engineer focused on crypto trading systems, exchange integrations,
+automated backtesting, and Node.js/C# services.
+
+Currently building:
+- Algorithmic trading and backtesting tools
+- Exchange integrations with Binance, Hyperliquid, CCXT, and crypto APIs
+- Developer tooling for safer CI and scenario automation
 
 <!--
 **RezaAb/RezaAb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
